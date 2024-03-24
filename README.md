@@ -1,22 +1,38 @@
+<div align='center'>
 
-Amazon clone website created with HTML and CSS only.
+<p>Amazon clone website created with HTML and CSS only. This project is a simple clone of the Amazon website, created using only HTML and CSS. It does not have any responsiveness, so it will not look good on mobile devices. This project is intended for educational purposes only. It is not meant to be a replacement for the real Amazon website.</p>
 
-This project is a simple clone of the Amazon website, created using only HTML and CSS. It does not have any responsiveness, so it will not look good on mobile devices.
+<h4> <span> · </span> <a href="https://github.com/atharv834/Amazon-clone/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/atharv834/Amazon-clone/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/atharv834/Amazon-clone/issues"> Request Feature </a> </h4>
 
-This project is intended for educational purposes only. It is not meant to be a replacement for the real Amazon website.
 
-Features:
+</div>
 
-Product search
-Product listing
-Product detail page
-Shopping cart
-Checkout
-Limitations:
+# :notebook_with_decorative_cover: Table of Contents
 
-No responsiveness
-No backend functionality
-No database
-Usage:
+- [About the Project](#star2-about-the-project)
+- [Contact](#handshake-contact)
 
-To use this project, simply clone the repository and open the index.html file in a web browser.
+
+## :star2: About the Project
+
+## :toolbox: Getting Started
+
+### :bangbang: Prerequisites
+
+- Nothing just clone the repos
+
+
+### :gear: Installation
+
+Go to the directory
+```bash
+cd /Amazon-clone
+```
+Open the index.html file in live server
+
+
+## :handshake: Contact
+
+Atharv - - atharv04@duck.com
+
+Project Link: [https://github.com/Atharv834/Amazon-clone](https://github.com/Atharv834/Amazon-clone)
