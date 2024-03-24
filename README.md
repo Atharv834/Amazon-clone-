@@ -1,6 +1,6 @@
 <div align='center'>
 
-<p>Amazon clone website created with HTML and CSS only. This project is a simple clone of the Amazon website, created using only HTML and CSS. It does not have any responsiveness, so it will not look good on mobile devices. This project is intended for educational purposes only. It is not meant to be a replacement for the real Amazon website.</p>
+<p>Amazon clone website created with HTML and CSS only. This project is a simple clone of the Amazon website, created using only HTML and CSS. It does not have any responsiveness, so it will not look good on mobile devices.</p>
 
 <h4> <span> · </span> <a href="https://github.com/atharv834/Amazon-clone/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/atharv834/Amazon-clone/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/atharv834/Amazon-clone/issues"> Request Feature </a> </h4>
 
